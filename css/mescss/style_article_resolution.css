@@ -1,6 +1,23 @@
 main{
     background-color: whitesmoke;
 }
+
+header {
+    background-color: #1D5E39;
+
+}
+
+header>h1 {
+    font-family: Caviar Dreams;
+    color: white;
+    font-size: 20px;
+    margin: 0;
+    text-align: left;
+    margin-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 aside   {
     color: red;
     font-family: Silkscreen;
@@ -34,32 +51,3 @@ footer {
     font-family: Poppins;
     text-align: left;
 }
-
-img{
-    margin-left: 5%;
-}
-
-.article1>h2 {
-    color: #1D5E39;
-}
-.article2 {
-    background-color: #1D5E39;
-    color: white;
-}
-
-header {
-    background-color: #1D5E39;
-
-}
-
-header>h1 {
-    font-family: Caviar Dreams;
-    color: white;
-    font-size: 20px;
-    margin: 0;
-    text-align: left;
-    margin-left: 10px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
-
