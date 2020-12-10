@@ -1,0 +1,56 @@
+main{
+    background-color: whitesmoke;
+}
+
+header {
+    background-color: #1D5E39;
+}
+
+header>h1 {
+    font-family: Caviar Dreams;
+    color: white;
+    font-size: 20px;
+    margin: 0;
+    text-align: left;
+    margin-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+p {
+    font-family: Poppins;
+    margin-left: 15px;
+    margin-right: 5px;
+    text-align: left;
+    line-height: 30px;
+}
+
+aside   {
+    color: red;
+    font-family: Silkscreen;
+    text-align: center;
+}
+
+h1{
+    font-family: Caviar Dreams;
+    text-align: center;
+}
+
+h2{
+    font-family: Poppins;
+    font-weight: normal;
+    margin-left: 10px;
+    margin-top: 0;
+    padding-top: 10px;
+}
+
+footer {
+    background-color: #0D6634;
+    color: white;
+    font-family: Poppins;
+    text-align: left;
+}
+
+img{
+    margin-left: 5%;
+}

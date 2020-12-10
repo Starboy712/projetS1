@@ -1,11 +1,6 @@
-main{
-    background-color: whitesmoke;
-}
 
-header {
-    background-color: #1D5E39;
 
-}
+
 
 header>h1 {
     font-family: Caviar Dreams;
@@ -18,33 +13,9 @@ header>h1 {
     padding-bottom: 20px;
 }
 
-aside   {
-    color: red;
-    font-family: Silkscreen;
-    text-align: center;
-}
 
-h1{
-    font-family: Caviar Dreams;
-    text-align: center;
-}
 
-h2{
-    font-family: Poppins;
-    font-weight: normal;
-    margin-left: 10px;
-    margin-top: 0;
-    padding-top: 10px;
-}
 
-p {
-    font-family: Poppins;
-    margin-left: 15px;
-    margin-right: 5px;
-    text-align: left;
-    line-height: 30px;
-
-}
 footer {
     background-color: #0D6634;
     color: white;
