@@ -29,6 +29,9 @@ aside   {
     color: red;
     font-family: Silkscreen;
     text-align: center;
+    margin-bottom: 60px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 h1{
@@ -42,6 +45,16 @@ h2{
     margin-left: 10px;
     margin-top: 0;
     padding-top: 10px;
+    color: #1D5E39;
+}
+
+h3{
+    font-family: Poppins;
+    font-weight: normal;
+    margin-left: 10px;
+    margin-top: 0;
+    padding-top: 10px;
+    color: yellow;
 }
 
 footer {
@@ -49,8 +62,15 @@ footer {
     color: white;
     font-family: Poppins;
     text-align: left;
+    margin: 0;
+}
+
+footer>p {
+    margin: 0;
 }
 
 img{
     margin-left: 5%;
 }
+
+

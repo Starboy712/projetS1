@@ -8,6 +8,33 @@
 }
 
 
+.logo_image {
+    width: 25%;
+    height: 17.5%;
+    margin-left: 35%;
+}
 
+.carousel h3{
+    color: white;
+    text-align: center;
+}
 
+.carousel {
+    padding: 20px 0;
+}
 
+ul.carousel-items {
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+}
+li.carousel-items{
+    flex: 1 0 220px;
+}
+
+iframe {
+    margin-right: 20px;
+    scroll-snap-align: center;
+}
