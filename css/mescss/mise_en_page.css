@@ -1,12 +1,34 @@
-main{
+@font-face {
+    font-family: "Silkscreen";
+    src: url('/font/slkscr.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: "Caviar Dreams";
+    src: url('/font/CaviarDreams.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: "Caviar Dreams";
+    src: url('/font/Poppins-light.otf') format("opentype");
+}
+
+
+main {
     background-color: whitesmoke;
 }
 
 header {
-    background-color: #1D5E39;
+    background-color: #0C592E;
+    position: fixed;
+    width: 100%;
 }
 
-header>h1 {
+.article1 > h2 {
+    padding-top: 80px;
+}
+
+header > h1 {
     font-family: Caviar Dreams;
     color: white;
     font-size: 20px;
@@ -25,8 +47,8 @@ p {
     line-height: 30px;
 }
 
-aside   {
-    color: red;
+blockquote, aside {
+    color: #BF1F1F;
     font-family: Silkscreen;
     text-align: center;
     margin-bottom: 60px;
@@ -34,43 +56,62 @@ aside   {
     margin-right: 20px;
 }
 
-h1{
+h1 {
     font-family: Caviar Dreams;
     text-align: center;
 }
 
-h2{
+h2 {
     font-family: Poppins;
     font-weight: normal;
     margin-left: 10px;
     margin-top: 0;
     padding-top: 10px;
-    color: #1D5E39;
+    color: #0C592E;
 }
 
-h3{
+h3 {
     font-family: Poppins;
     font-weight: normal;
     margin-left: 10px;
     margin-top: 0;
     padding-top: 10px;
-    color: yellow;
+    color: #F2A71B;
 }
 
 footer {
-    background-color: #0D6634;
+    background-color: #0C592E;
     color: white;
     font-family: Poppins;
     text-align: left;
     margin: 0;
 }
 
-footer>p {
+footer > p {
     margin: 0;
 }
 
-img{
-    margin-left: 5%;
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
+.logo_image {
+    display: block;
+    width: 25%;
+    height: 17.5%;
+    margin-left: auto;
+    margin-right: auto;
+}
 
+.bouton {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.arrow {
+    width: 25%;
+    height: 17.5%;
+}

@@ -1,20 +1,23 @@
 
-.article1>h2 {
-    color: #1D5E39;
+.article1 > h2 {
+    color: #0C592E;
 }
+
 .article2 {
     background-color: #1D5E39;
     color: white;
 }
 
-
-.logo_image {
-    width: 25%;
-    height: 17.5%;
-    margin-left: 35%;
+.article2 > h2 {
+    color: white;
 }
 
-.carousel h3{
+.article2 > aside {
+    color: #F2A71B;
+}
+
+
+.carousel h3 {
     color: white;
     text-align: center;
 }
@@ -30,7 +33,8 @@ ul.carousel-items {
     overflow-x: scroll;
     scroll-snap-type: x mandatory;
 }
-li.carousel-items{
+
+li.carousel-items {
     flex: 1 0 220px;
 }
 

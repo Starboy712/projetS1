@@ -5,12 +5,41 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afa2a852-4dca-430a-a569-27a7d869f476" name="Default Changelist" comment="commit : optimisation">
+    <list default="true" id="afa2a852-4dca-430a-a569-27a7d869f476" name="Default Changelist" comment="commit : carousel vidéo">
+      <change afterPath="$PROJECT_DIR$/autres_projets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/article1.html" beforeDir="false" afterPath="$PROJECT_DIR$/article1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/article2.html" beforeDir="false" afterPath="$PROJECT_DIR$/article2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/article3.html" beforeDir="false" afterPath="$PROJECT_DIR$/article3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mise_en_page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/style_article1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/style_article1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/style_article_2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/style_article_2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/style_article_resolution.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/style_article_resolution.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/CaviarDreams_BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/CaviarDreams_Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Caviar_Dreams_Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Poppins-Black.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Poppins-BlackItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Poppins-Bold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Poppins-BoldItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Poppins-ExtraBold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Poppins-ExtraBoldItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Poppins-ExtraLight.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Poppins-ExtraLightItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Poppins-Italic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Poppins-LightItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Poppins-Medium.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Poppins-MediumItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Poppins-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Poppins-SemiBold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Poppins-SemiBoldItalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/Poppins-Thin.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/slkscrb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/slkscre.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/slkscreb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +53,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -36,6 +66,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -67,7 +98,11 @@
       <workItem from="1607339605376" duration="21041000" />
       <workItem from="1607435919172" duration="1218000" />
       <workItem from="1607535652446" duration="4656000" />
-      <workItem from="1607608970480" duration="13093000" />
+      <workItem from="1607608970480" duration="14285000" />
+      <workItem from="1607642203901" duration="2317000" />
+      <workItem from="1607658370484" duration="5780000" />
+      <workItem from="1607706978893" duration="1284000" />
+      <workItem from="1607790695720" duration="695000" />
     </task>
     <task id="LOCAL-00001" summary="Début des pages css (avec chacunes des pages css)">
       <created>1606983051805</created>
@@ -104,7 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607615540950</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit : carousel vidéo">
+      <created>1607622367896</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607622367896</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit : carousel vidéo">
+      <created>1607622377566</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607622377566</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +194,8 @@
     <MESSAGE value="Gros commit : - normalisation de toutes les pages avec la base du css et des couleurs  / correction du html et ajout des deux dernieres pages en html / changement des tweets / upload des images / correction du noms des pages css pour eviter des bugs / passage de la page sur light house (environ 90% de score global)" />
     <MESSAGE value="commit : menu hamburger" />
     <MESSAGE value="commit : optimisation" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit : optimisation" />
+    <MESSAGE value="commit : carousel vidéo" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit : carousel vidéo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="344" y="77" key="#SSH_Configurations" timestamp="1607354560705">
@@ -164,10 +214,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="264" y="121" key="SettingsEditor/0.0.1536.864/1920.0.1366.768@0.0.1536.864" timestamp="1607354660002" />
-    <state x="309" y="132" key="Vcs.Push.Dialog.v2" timestamp="1607615548335">
+    <state x="309" y="132" key="Vcs.Push.Dialog.v2" timestamp="1607622386389">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="309" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.864/1920.0.1366.768@0.0.1536.864" timestamp="1607615548335" />
+    <state x="309" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.864/1920.0.1366.768@0.0.1536.864" timestamp="1607622386389" />
     <state x="2195" y="117" key="Vcs.Push.Dialog.v2/0.0.1536.864/1920.0.1366.768@1920.0.1366.768" timestamp="1606984802410" />
     <state x="641" y="206" key="ftp.server.browser" timestamp="1607354656092">
       <screen x="0" y="0" width="1536" height="864" />
