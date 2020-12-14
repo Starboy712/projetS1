@@ -4,16 +4,18 @@
 }
 
 .article2 {
-    background-color: #1D5E39;
+    background-color: #0C592E;
     color: white;
+    padding-bottom: 10px;
 }
 
 .article2 > h2 {
-    color: white;
+    color: #F2A71B;
 }
 
-.article2 > aside {
+.article2 > blockquote {
     color: #F2A71B;
+    margin-bottom: 16px;
 }
 
 
@@ -42,3 +44,14 @@ iframe {
     margin-right: 20px;
     scroll-snap-align: center;
 }
+
+.article2 > blockquote {
+    color: #F2A71B;
+}
+
+.galerie {
+   display: inline-block;
+    text-align: center;
+    padding: 0;
+}
+

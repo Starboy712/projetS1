@@ -41,11 +41,12 @@ header > h1 {
 
 p {
     font-family: Poppins;
-    margin-left: 15px;
-    margin-right: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
     text-align: left;
-    line-height: 30px;
+    line-height: 25px;
 }
+
 
 blockquote, aside {
     color: #BF1F1F;
@@ -79,17 +80,41 @@ h3 {
     color: #F2A71B;
 }
 
+h4 {
+    font-family: Poppins;
+    font-weight: normal;
+    text-align: center;
+    margin-bottom: 0;
+    color: #BF1F1F;
+}
+
 footer {
     background-color: #0C592E;
     color: white;
     font-family: Poppins;
-    text-align: left;
     margin: 0;
+    text-align: center;
+    line-height: 30px;
+
 }
 
 footer > p {
-    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+
 }
+
+footer > a, footer > p > a {
+    text-decoration: none;
+    color: #F2A71B;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
 
 img {
     display: block;
@@ -114,4 +139,10 @@ img {
 .arrow {
     width: 25%;
     height: 17.5%;
+}
+
+.description_image {
+    font-size: smaller;
+    text-align: center;
+    margin-top: 1px;
 }
