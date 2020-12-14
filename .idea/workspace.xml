@@ -5,21 +5,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afa2a852-4dca-430a-a569-27a7d869f476" name="Default Changelist" comment="commit : correction et fleches de naviagtion">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="afa2a852-4dca-430a-a569-27a7d869f476" name="Default Changelist" comment="commit : Update du site, page formulaire + autre projets + refonte du footer + refonte de la page d'acceuil + liens hypertext des images + changement de aside en blockquote">
       <change beforePath="$PROJECT_DIR$/article1.html" beforeDir="false" afterPath="$PROJECT_DIR$/article1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article2.html" beforeDir="false" afterPath="$PROJECT_DIR$/article2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/article3.html" beforeDir="false" afterPath="$PROJECT_DIR$/article3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autres_projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres_projets.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/autres_projet.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/autres_projet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/interview.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/interview.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/mise_en_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/mise_en_page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/layout.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/style_article1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/style_article1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/style_article_resolution.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/style_article_resolution.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/style_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/style_index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Bouton article suivant.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Bouton start.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Logo anonymous.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Logo_anonymous.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/interview.html" beforeDir="false" afterPath="$PROJECT_DIR$/interview.html" afterDir="false" />
     </list>
@@ -87,7 +79,7 @@
       <workItem from="1607790695720" duration="5085000" />
       <workItem from="1607863381324" duration="13068000" />
       <workItem from="1607892774346" duration="89000" />
-      <workItem from="1607949136103" duration="4406000" />
+      <workItem from="1607949136103" duration="5385000" />
     </task>
     <task id="LOCAL-00001" summary="Début des pages css (avec chacunes des pages css)">
       <created>1606983051805</created>
@@ -145,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607791658034</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit : Update du site, page formulaire + autre projets + refonte du footer + refonte de la page d'acceuil + liens hypertext des images + changement de aside en blockquote">
+      <created>1607953951866</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607953951866</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,7 +187,8 @@
     <MESSAGE value="commit : optimisation" />
     <MESSAGE value="commit : carousel vidéo" />
     <MESSAGE value="commit : correction et fleches de naviagtion" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit : correction et fleches de naviagtion" />
+    <MESSAGE value="commit : Update du site, page formulaire + autre projets + refonte du footer + refonte de la page d'acceuil + liens hypertext des images + changement de aside en blockquote" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit : Update du site, page formulaire + autre projets + refonte du footer + refonte de la page d'acceuil + liens hypertext des images + changement de aside en blockquote" />
   </component>
   <component name="WindowStateProjectService">
     <state x="344" y="77" key="#SSH_Configurations" timestamp="1607354560705">
@@ -207,10 +207,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="264" y="121" key="SettingsEditor/0.0.1536.864/1920.0.1366.768@0.0.1536.864" timestamp="1607354660002" />
-    <state x="309" y="132" key="Vcs.Push.Dialog.v2" timestamp="1607622386389">
+    <state x="309" y="132" key="Vcs.Push.Dialog.v2" timestamp="1607953958124">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="309" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.864/1920.0.1366.768@0.0.1536.864" timestamp="1607622386389" />
+    <state x="309" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.864/1920.0.1366.768@0.0.1536.864" timestamp="1607953958124" />
     <state x="2195" y="117" key="Vcs.Push.Dialog.v2/0.0.1536.864/1920.0.1366.768@1920.0.1366.768" timestamp="1606984802410" />
     <state x="641" y="206" key="ftp.server.browser" timestamp="1607354656092">
       <screen x="0" y="0" width="1536" height="864" />

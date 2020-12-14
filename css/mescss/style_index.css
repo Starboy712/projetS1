@@ -1,6 +1,5 @@
 
-
-p  {
+p {
     display: inline-block;
 }
 
@@ -10,7 +9,7 @@ img {
     margin-left: 25%;
 }
 
-.start_screen{
+.start_screen {
     background-image: url("../../img/fond.png");
     width: 375px;
     height: 800px;
@@ -26,7 +25,7 @@ h1, h3 {
 
 }
 
-h1  {
+h1 {
     display: inline-block;
     font-size: 30px;
     color: white;
