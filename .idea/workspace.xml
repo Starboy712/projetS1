@@ -5,15 +5,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afa2a852-4dca-430a-a569-27a7d869f476" name="Default Changelist" comment="commit : Update du site, page formulaire + autre projets + refonte du footer + refonte de la page d'acceuil + liens hypertext des images + changement de aside en blockquote">
-      <change beforePath="$PROJECT_DIR$/article1.html" beforeDir="false" afterPath="$PROJECT_DIR$/article1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article3.html" beforeDir="false" afterPath="$PROJECT_DIR$/article3.html" afterDir="false" />
+    <list default="true" id="afa2a852-4dca-430a-a569-27a7d869f476" name="Default Changelist" comment="commit : nettoyage des pages">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autres_projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/autres_projets.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/interview.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/interview.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/layout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/style_article1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/style_article1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/style_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/style_index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/fond.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/fond.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/interview.html" beforeDir="false" afterPath="$PROJECT_DIR$/interview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/style.mp4" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +77,8 @@
       <workItem from="1607790695720" duration="5085000" />
       <workItem from="1607863381324" duration="13068000" />
       <workItem from="1607892774346" duration="89000" />
-      <workItem from="1607949136103" duration="5385000" />
+      <workItem from="1607949136103" duration="6082000" />
+      <workItem from="1608049634454" duration="1552000" />
     </task>
     <task id="LOCAL-00001" summary="Début des pages css (avec chacunes des pages css)">
       <created>1606983051805</created>
@@ -144,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607953951866</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit : nettoyage des pages">
+      <created>1607955191899</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1607955191899</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,7 +194,8 @@
     <MESSAGE value="commit : carousel vidéo" />
     <MESSAGE value="commit : correction et fleches de naviagtion" />
     <MESSAGE value="commit : Update du site, page formulaire + autre projets + refonte du footer + refonte de la page d'acceuil + liens hypertext des images + changement de aside en blockquote" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit : Update du site, page formulaire + autre projets + refonte du footer + refonte de la page d'acceuil + liens hypertext des images + changement de aside en blockquote" />
+    <MESSAGE value="commit : nettoyage des pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit : nettoyage des pages" />
   </component>
   <component name="WindowStateProjectService">
     <state x="344" y="77" key="#SSH_Configurations" timestamp="1607354560705">
