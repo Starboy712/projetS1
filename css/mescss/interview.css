@@ -71,11 +71,16 @@ button {
     padding: 10px;
 }
 
+.video {
+    display: block;
+}
+
 video {
     position: relative;
     height: 80%;
     width: auto;
     margin-left: 30px;
+    object-fit: contain;
 }
 
 p {
