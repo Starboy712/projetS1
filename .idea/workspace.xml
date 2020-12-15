@@ -5,9 +5,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afa2a852-4dca-430a-a569-27a7d869f476" name="Default Changelist" comment="rendu">
+    <list default="true" id="afa2a852-4dca-430a-a569-27a7d869f476" name="Default Changelist" comment="rendu avec vidéo">
       <change beforePath="$PROJECT_DIR$/interview.html" beforeDir="false" afterPath="$PROJECT_DIR$/interview.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/interview.mpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +73,7 @@
       <workItem from="1607863381324" duration="13068000" />
       <workItem from="1607892774346" duration="89000" />
       <workItem from="1607949136103" duration="6082000" />
-      <workItem from="1608049634454" duration="1905000" />
+      <workItem from="1608049634454" duration="2241000" />
     </task>
     <task id="LOCAL-00001" summary="Début des pages css (avec chacunes des pages css)">
       <created>1606983051805</created>
@@ -153,7 +152,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608051226612</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="rendu avec vidéo">
+      <created>1608051620321</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608051620321</updated>
+    </task>
+    <task id="LOCAL-00013" summary="rendu avec vidéo">
+      <created>1608051875286</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608051875286</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +212,8 @@
     <MESSAGE value="commit : Update du site, page formulaire + autre projets + refonte du footer + refonte de la page d'acceuil + liens hypertext des images + changement de aside en blockquote" />
     <MESSAGE value="commit : nettoyage des pages" />
     <MESSAGE value="rendu" />
-    <option name="LAST_COMMIT_MESSAGE" value="rendu" />
+    <MESSAGE value="rendu avec vidéo" />
+    <option name="LAST_COMMIT_MESSAGE" value="rendu avec vidéo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="344" y="77" key="#SSH_Configurations" timestamp="1607354560705">
